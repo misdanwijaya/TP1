@@ -27,6 +27,7 @@ typedef struct {
 int banyak;
 void createList(list *L);
 
+//void untuk fungsi
 void createList (list *L);
 int countElemen (list L);
 void printElemen (list L);
